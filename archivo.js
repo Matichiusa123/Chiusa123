@@ -10,6 +10,7 @@ for(let i=0; i < 10; i=i++){
 
 //CONSIGNA 2
 
+/*
 let nombre = "";
 let edad = "";
 let email = "";
@@ -23,6 +24,15 @@ while (nombre, edad , email != "ESC"){
     console.log ("Su edad es:", edad);
     console.log("Su email es: ", email);
 }
-
+*/
 
 //CONSIGNA 3
+
+/*
+for(let i = 0; i <= 2 ; i = i + 1){
+let mensaje = prompt("Mensaje de bienvenida")
+let numero = parseInt(prompt("Ingrese un numero"));
+console.log("Hola:", mensaje);
+console.log("Tu numero es:", numero);
+}
+
